@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dropdown Menu
-// @namespace    yournamespace
+// @namespace    jobayer
 // @version      1.1
 // @description  Combine buttons into a dropdown menu
 // @match        *://*/*
